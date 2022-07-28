@@ -17,5 +17,4 @@ public class Display {
     public void displayDogs(Container<? extends Dog> container) {
         printList(container.getT());
     }
-
 }

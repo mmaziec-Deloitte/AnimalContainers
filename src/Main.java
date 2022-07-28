@@ -39,10 +39,5 @@ public class Main {
         display.displayMammals(animals);
         display.displayDogs(mammals);
         display.displayDogs(animals);
-
-
-
-
-
     }
 }

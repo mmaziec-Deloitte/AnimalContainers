@@ -33,6 +33,5 @@ public class Dog extends Mammal{
     }
 
     private int dogHouseNumber;
-
 }
 
